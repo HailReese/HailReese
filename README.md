@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HailReese
-- 👀 I’m interested in Engineering, GameDeveloping and Music
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in Engineering and Developing
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on BackEnd Developing
+- 📫 To reach me [click here](https://t.me/giariuiry)
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 
 <!---
